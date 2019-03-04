@@ -7,7 +7,7 @@
 //
 
 import UIKit
-
+// this is an initial comit message
 class MasterViewController: UITableViewController {
 
     var detailViewController: DetailViewController? = nil
